@@ -10,6 +10,7 @@ class NewDocument extends Document {
     return (
       <Html>
         <Head>
+          <title>Calculadora IMC - Saulo Braine</title>
           <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap" rel="stylesheet" />
         </Head>
         <body>
